@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoCadastro</string>
+    <string name="informe_o_username">informe o username</string>
+    <string name="informe_senha">Informe senha</string>
+    <string name="sou_novo_usuario">Sou novo usuario</string>
+    <string name="btconectar">Conectar</string>
+    <string name="informe_seu_nome">Informe seu nome</string>
+    <string name="btcriar">Criar</string>
+</resources>
